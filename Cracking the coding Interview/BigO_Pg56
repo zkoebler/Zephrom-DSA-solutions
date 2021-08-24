@@ -1,0 +1,32 @@
+Attempt#1
+--------------------------------------------------
+1.O(n)		correct
+2.O(b)		correct
+3.O(1)		correct
+4.O(a)		incorrect
+5.O(log n)	correct
+6.O(n)		incorrect
+7.O(n^2)	incorrect
+8.O(n^2)	incorrect
+9.O(n)		incorrect
+10.O(n)	incorrect
+11.O(n^2)	incorrect, but close
+12.O(nLog n)	inccorrect but on the right track
+
+revisit examples: 4,5, 8, 10, 12, 13, 14, 16
+Attempt#2
+--------------------------------------------------
+1.O(b)
+2.O(b)
+3.O(1)
+4.O(a/b)
+5.O(log n)
+6.O(sqrt(n))
+7.O(n)			correct
+8.O(n)			correct
+9.O(n^2)		correct
+10.O(log n)		correct
+11.O(n)		incorrect
+12. ___		Incorrect, look up time complexity of sorting algorithms
+--------------------------------------------------
+Attemp#3
